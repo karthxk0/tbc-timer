@@ -1,1 +1,1 @@
-Custom made for BioBulletin
+Browser based synced flip clock timer custom made for TheBioClub
